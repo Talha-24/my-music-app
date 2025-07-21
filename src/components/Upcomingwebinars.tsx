@@ -45,7 +45,7 @@ const Upcomingwebinars = () => {
 
     return (
         <div className='max-w-7xl h-auto p-12 bg-gray-900'>
-            <div className='text-center max-w-7xl mx-auto px-4 sm:px-6"'>
+            <div className='text-center max-w-7xl mx-auto px-2 sm:px-6"'>
                 <div>
                     <h1 className='text-base text-teal-600 font-semibold tracking-wide uppercase"'>FEATURED WEBINARS</h1>
                     <p className='mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl'>Enhance Your Musical Journey</p>
