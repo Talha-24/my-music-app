@@ -20,7 +20,7 @@ const Featurecards = () => {
                 </div>
             </div>
                    <div className="mt-10 mx-8">
-            <div className="grid max-sm:grid-col-1 md:grid-col-2 grid-cols-3 gap-8 justify-center">
+            <div className="grid max-sm:grid-col-1 md:grid-col-3 max-sm:grid-cols-1 grid-cols-2 gap-8 justify-center">
                 {Courses.map((course:Course)=> (
                     <div key={course.id} className="flex justify-center">
                         <BackgroundGradient
