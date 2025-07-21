@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Essentials",
+      "slug": "piano-essentials",
+      "description": "Master the piano from scratch with step-by-step lessons and practice tips.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Drum Techniques",
+      "slug": "drum-techniques",
+      "description": "Build strong rhythm and percussion skills with hands-on drum training.",
+      "price": 79.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Violin Basics",
+      "slug": "violin-basics",
+      "description": "Start your violin journey with foundational techniques and exercises.",
+      "price": 85.50,
+      "instructor": "Emily Clark",
+      "isFeatured": false,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Music Theory 101",
+      "slug": "music-theory-101",
+      "description": "Understand the core principles of music theory to enhance your skills.",
+      "price": 69.00,
+      "instructor": "David Lee",
+      "isFeatured": true,
+      "image": "/courses/music-theory.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Vocal Training",
+      "slug": "vocal-training",
+      "description": "Improve your voice, breathing, and pitch with vocal coaching lessons.",
+      "price": 74.25,
+      "instructor": "Sara Kim",
+      "isFeatured": false,
+      "image": "/courses/vocals.jpg"
+    }
+  ]
+}
